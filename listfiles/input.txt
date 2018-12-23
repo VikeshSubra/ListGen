@@ -1,0 +1,16 @@
+a,A,@
+l,L,1,/,\
+l,L,1,/,\
+$SYM$
+s,S,$
+y,Y,4
+s,S,$
+t,T
+e,E,3
+m,M
+s,S,$
+$SYM$
+g,G
+o,O,0
+$END$
+
